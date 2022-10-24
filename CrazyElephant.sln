@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyElephant.Client", "CrazyElephant.Client\CrazyElephant.Client.csproj", "{6212749B-2E20-49FF-8EFE-8D614660B720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6212749B-2E20-49FF-8EFE-8D614660B720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6212749B-2E20-49FF-8EFE-8D614660B720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6212749B-2E20-49FF-8EFE-8D614660B720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6212749B-2E20-49FF-8EFE-8D614660B720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129B4CF8-62D6-4435-9956-C043B04573AC}
+	EndGlobalSection
+EndGlobal
