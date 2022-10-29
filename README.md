@@ -1,1 +1,1 @@
-# WPF_MVVM设计模式练习项目
+# WPF_MVVM设计模式
